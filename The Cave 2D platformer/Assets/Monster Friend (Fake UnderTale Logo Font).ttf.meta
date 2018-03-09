@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0b75b809ac69b7043b27889d0135dcf7
+timeCreated: 1517939666
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Monster Friend (Fake UnderTale Logo Font)
+  fontNames:
+  - Monster Friend (Fake UnderTale Logo Font)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
